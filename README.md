@@ -187,7 +187,7 @@
 </span>
 <span>
   <img
-    align="right"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=badaruddinomar&"
     alt="badaruddinomar"
   />
