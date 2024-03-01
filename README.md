@@ -1,32 +1,194 @@
 <h1 align="center">Hi 👋, I'm Badar Uddin Omar</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend developer focused on MERN Stack</h3>
+<p align="center">👋 Welcome to my GitHub profile! A passionate Frontend Developer with a focus on the MERN stack (MongoDB, Express.js, React.js, Node.js). 🌱 Constantly learning and adapting to emerging technologies, I'm enthusiastic about collaborating on innovative projects and contributing to the developer community.🚀 </p>
+
+<p align="center">
+  🔭 I’m currently working on **Booking website** <br/>
+ 🌱 I’m currently learning **Next JS and Typescript** <br/>
+ 💬 Ask me about **React, Tailwind CSS**
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="mailto:badaruddinomar2403@gmail.com"> <img
+      align="center"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="100028009740476"
+      height="30"
+      width="80"
+    />
+    </a>
+  <a href="https://www.linkedin.com/in/badar-uddin-702368211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  height="30"
+      width="100" align="center"/>
+  </a>
+    <a href="https://www.facebook.com/profile.php?id=100028009740476">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  height="30"
+      width="100" align="center"/>
+  </a>
+       <a href="https://badarsportfolio.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"  height="30"
+      width="100" align="center"/>
+       </a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+   <img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="50"
+      height="50"
+    />
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="50"
+      height="50"
+    />
+  </a>
+<br/>
+<br/>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+ <img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
+</a>
+<a align="center">
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+    alt="mongodb"
+    width="50"
+    height="50"
+  />
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+    alt="figma"
+    width="50"
+    height="50"
+  />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="git"
+    width="50"
+    height="50"
+  />
+</a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+    alt="photoshop"
+    width="50"
+    height="50"
+  />
+</a>
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+    alt="postman"
+    width="50"
+    height="50"
+  />
+</a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badaruddinomar&label=Profile%20views&color=0e75b6&style=flat" alt="badaruddinomar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badaruddinomar" alt="badaruddinomar" /></a> </p>
 
-- 🔭 I’m currently working on **Booking website**
 
-- 🌱 I’m currently learning **Next JS and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://badarsportfolio.onrender.com](https://badarsportfolio.onrender.com)
 
-- 💬 Ask me about **React, Tailwind CSS**
-
-- 📫 How to reach me **badaruddinomar2403@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/badar-uddin-702368211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badar-uddin-702368211" height="30" width="40" /></a>
-<a href="https://fb.com/100028009740476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100028009740476" height="30" width="40" /></a>
+<br/>
+<br/>
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=badaruddinomar&show_icons=true&locale=en&layout=compact"
+    alt="badaruddinomar"
+  />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badaruddinomar&show_icons=true&locale=en&layout=compact" alt="badaruddinomar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badaruddinomar&show_icons=true&locale=en" alt="badaruddinomar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badaruddinomar&" alt="badaruddinomar" /></p>
-
+<br/>
+<span>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=badaruddinomar&show_icons=true&locale=en"
+    alt="badaruddinomar"
+  />
+</span>
+<span>
+  <img
+    align="right"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=badaruddinomar&"
+    alt="badaruddinomar"
+  />
+</span>
