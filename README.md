@@ -2,12 +2,6 @@
 <h3 align="center">A passionate Frontend developer focused on MERN Stack</h3>
 <p align="center">👋 Welcome to my GitHub profile! A passionate Frontend Developer with a focus on the MERN stack (MongoDB, Express.js, React.js, Node.js). 🌱 Constantly learning and adapting to emerging technologies, I'm enthusiastic about collaborating on innovative projects and contributing to the developer community.🚀 </p>
 
-<p align="center">
-  🔭 I’m currently working on **Booking website** <br/>
- 🌱 I’m currently learning **Next JS and Typescript** <br/>
- 💬 Ask me about **React, Tailwind CSS**
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="mailto:badaruddinomar2403@gmail.com"> <img
