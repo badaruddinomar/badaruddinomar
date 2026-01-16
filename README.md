@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badar Uddin Omar</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
-<p align="center">👋 Welcome to my GitHub profile! A passionate Frontend Developer with a focus on the MERN stack (MongoDB, Express.js, React.js, Node.js). 🌱 Constantly learning and adapting to emerging technologies, I'm enthusiastic about collaborating on innovative projects and contributing to the developer community.🚀 </p>
+<p align="center">👋 Welcome to my GitHub profile! A passionate Full stack Developer with a focus on the MERN stack (MongoDB, Express.js, Nest.js, React.js,, Prisma, PostgreSQL, Socket.IO, Docker). 🌱 Constantly learning and adapting to emerging technologies, I'm enthusiastic about collaborating on innovative projects and contributing to the developer community.🚀 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
